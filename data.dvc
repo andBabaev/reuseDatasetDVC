@@ -1,0 +1,12 @@
+md5: 8bce7368883b34e47791765953724e97
+frozen: true
+deps:
+- path: data
+  repo:
+    url: https://github.com/andBabaev/dvc-example-CatDog
+    rev_lock: 477fe3313ffb1e50bbf811338bf8117216c2fbc2
+outs:
+- md5: 21060888834f7220846d1c6f6c04e649.dir
+  size: 64128504
+  nfiles: 2800
+  path: data
